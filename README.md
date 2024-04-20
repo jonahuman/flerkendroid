@@ -77,6 +77,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=flerkendroid&theme=dark" alt="Layout with last medium posts"  />
 </div>
@@ -85,14 +87,14 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/fj7nhku4vixrc81droppvooaj?si=fd47272b5e52451a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fj7nhku4vixrc81droppvooaj?si=fd47272b5e52451a&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fj7nhku4vixrc81droppvooaj?si=fd47272b5e52451a&count=2" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/8h8tja.png"  />
+  <img height="200" src="https://i.imgflip.com/5o32tt.png"  />
 </div>
 
 ###
