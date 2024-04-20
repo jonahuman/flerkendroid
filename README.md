@@ -84,8 +84,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/fj7nhku4vixrc81droppvooaj?si=fd47272b5e52451a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/fj7nhku4vixrc81droppvooaj?si=fd47272b5e52451a&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/fj7nhku4vixrc81droppvooaj?si=fd47272b5e52451a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fj7nhku4vixrc81droppvooaj?si=fd47272b5e52451a&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
