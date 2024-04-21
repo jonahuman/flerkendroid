@@ -82,11 +82,3 @@
 </div>
 
 ###
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/5o32tt.png"  />
-</div>
-
-###
